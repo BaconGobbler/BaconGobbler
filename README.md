@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**bacongobbler/bacongobbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wow, this really has a MySpace vibe going on, doesn't it? I wonder if I can set up some background tunes. 🤔
 
-Here are some ideas to get you started:
+I'm a Founding Engineer at [Fermyon Technologies](https://fermyon.com). My primary interest is [WebAssembly](https://webassembly.org/), but off-hours I enjoy game development (both board games and video games), building (and playing) guitars, gardening, carpentry, and painting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I maintain a few personal projects that you may find useful:
+
+1. [azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - A [Github Action](https://docs.github.com/en/actions) for uploading assets to Azure Blob Storage.
+2. [bevy_simple_networking](https://github.com/bacongobbler/bevy_simple_networking) - A library for the Bevy game engine used to develop online multiplayer games.
+
+[![bacongobbler's github stats](https://github-readme-stats.vercel.app/api?username=bacongobbler)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Contact
+
+Hit me up at [matt.fisher@fermyon.com](mailto:matt.fisher@fermyon.com).
