@@ -6,7 +6,7 @@ I'm a Founding Engineer at [Fermyon Technologies](https://fermyon.com). My prima
 
 I maintain a few personal projects that you may find useful:
 
-1. [azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - A [Github Action](https://docs.github.com/en/actions) for uploading assets to Azure Blob Storage.
+1. [azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - A [Github Action](https://docs.github.com/en/actions) for uploading files to Azure Blob Storage.
 2. [bevy_simple_networking](https://github.com/bacongobbler/bevy_simple_networking) - A library for the Bevy game engine used to develop online multiplayer games.
 
 [![bacongobbler's github stats](https://github-readme-stats.vercel.app/api?username=bacongobbler)](https://github.com/anuraghazra/github-readme-stats)
